@@ -4,11 +4,11 @@
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
 
-<div style="height: 100%;" class="ui middle aligned three column centered stackable grid container">
+<div style="height: 100%;" class="ui middle aligned two column centered stackable grid container">
 
   <div style="text-align: right" class="column">
-    <div  class="ui rounded image">
-      <img style="max-width: 350px" src="{{ site.data.bio.basics.picture }}">
+    <div  class="ui round image">
+      <right> <img style="max-width: 350px" src="{{ site.data.bio.basics.picture }}"> </right>
     </div>
   </div>
 
@@ -28,13 +28,13 @@
     </p>
     <p style="text-align: left">
       <a href="{{ site.baseurl}}/projects/">
-        <button class="ui basic button">Projects ({{ num_projects }})</button>
+        <button class="ui round button">Projects ({{ num_projects }})</button>
       </a>
       <a href="{{ site.baseurl}}/essays/">
-        <button class="ui ghost button">Essays ({{ num_essays }})</button>
+        <button class="ui round button">Essays ({{ num_essays }})</button>
       </a>
       <a href="{{ site.baseurl}}/bio/">
-        <button class="ui ghost button">{{ site.bio-page-label }}</button>
+        <button class="ui round button">{{ site.bio-page-label }}</button>
       </a>
     </p>
   </div>

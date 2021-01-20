@@ -4,12 +4,12 @@
     "label": "Student",
     "picture": "https://thaneluna.github.io/images/IMG_0166_50.png",
     "email": "thanel@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "808-551-0138",
     "website": "https://thaneluna.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am a student at the University of Hawaii obtaining my B.S in Computer Science. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -20,24 +20,26 @@
         "username": "thaneluna",
         "url": "http://github.com/thaneluna"
       },
+      {
+        "network": "linkedin",
+        "username": "thaneluna",
+        "url": "https://www.linkedin.com/in/thane-luna"
+      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Video games",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Call of Duty",
+        "Ubisoft"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Research Data",
       "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "Dart, Swift languages",
+        "PC Building"
       ]
     }
   ],

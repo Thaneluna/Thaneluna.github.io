@@ -6,15 +6,15 @@
 
 <div style="height: 100%;" class="ui middle aligned three column centered stackable grid container">
 
-  <div style="text-align: left" class="column">
-    <div  class="ui square image">
+  <div style="text-align: right" class="column">
+    <div  class="ui rounded image">
       <img style="max-width: 350px" src="{{ site.data.bio.basics.picture }}">
     </div>
   </div>
 
   <div class="column">
-    <h2 class="header no-bottom"> <div id="name" style="margin-up:100000px"> <label>{{ site.data.bio.basics.name }}</label></div></h2>
-    <p class=""> <font size="12"> {{ site.data.bio.basics.label }} </font></p>
+    <h2 class="header no-bottom">{{ site.data.bio.basics.name }}</h2>
+    <p class=""> <font size="2"> {{ site.data.bio.basics.label }} </font></p>
     <p class="">
       {{ site.data.bio.basics.summary }}
     </p>
@@ -23,18 +23,18 @@
         {{ interest.name }}{% if forloop.last != true %}, {% endif %}
       {% endfor %}
     </p>
-    <p style="text-align: right">
+    <p style="text-align: left">
       {% include home-network-links.html %}
     </p>
-    <p style="text-align: right">
+    <p style="text-align: left">
       <a href="{{ site.baseurl}}/projects/">
         <button class="ui basic button">Projects ({{ num_projects }})</button>
       </a>
       <a href="{{ site.baseurl}}/essays/">
-        <button class="ui basic button">Essays ({{ num_essays }})</button>
+        <button class="ui ghost button">Essays ({{ num_essays }})</button>
       </a>
       <a href="{{ site.baseurl}}/bio/">
-        <button class="ui basic button">{{ site.bio-page-label }}</button>
+        <button class="ui ghost button">{{ site.bio-page-label }}</button>
       </a>
     </p>
   </div>

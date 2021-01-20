@@ -29,6 +29,9 @@
   },
   "interests": [
     {
+      "name": "Software Development"
+    },
+    {
       "name": "Video games",
       "keywords": [
         "Call of Duty",

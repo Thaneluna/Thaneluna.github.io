@@ -6,7 +6,7 @@
 
 <div style="height: 100%;" class="ui middle aligned three column centered stackable grid container">
 
-  <div style="text-align: center" class="column">
+  <div style="text-align: left" class="column">
     <div  class="ui square image">
       <img style="max-width: 350px" src="{{ site.data.bio.basics.picture }}">
     </div>
@@ -23,10 +23,10 @@
         {{ interest.name }}{% if forloop.last != true %}, {% endif %}
       {% endfor %}
     </p>
-    <p style="text-align: center">
+    <p style="text-align: right">
       {% include home-network-links.html %}
     </p>
-    <p style="text-align: center">
+    <p style="text-align: right">
       <a href="{{ site.baseurl}}/projects/">
         <button class="ui basic button">Projects ({{ num_projects }})</button>
       </a>

@@ -11,11 +11,11 @@ summary: In this essay, I explain WHY Javascript is a successful language, and h
 ---
 Javascript is a successful language. I say this because it is unlike anything i've experienced thus far in my journey through the languages. Simple code from Java's programming language like:
 <p><code>
-main(String [] args) {
-  <b>// Do something then call aFunction()</b>
+  <b>main</b>(String [] args) {
+  <p>// Do something then call aFunction()</p>
 }
 
-void aFunction() {
+<b>void</b> aFunction() {
 
 }
 </code></p>

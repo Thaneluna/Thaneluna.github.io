@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/play-1873546_640.png
 title: Zombified
-permalink: projects/micromouse
+permalink: projects/zombified
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:

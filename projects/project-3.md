@@ -21,8 +21,6 @@ Building a PC is a grueling process, in the process, I learned that hardware is 
 <div class="ui small rounded images">
   
 <img class="ui image" src="../images/Case.jpg">
-  <a href="https://www.amazon.com/NZXT-H510-Elite-Dual-Tempered-Water-Cooling/dp/B07TD9VTVQ/ref=sr_1_1_sspa?crid=34AY8TPCQ0Y73&dchild=1&keywords=nzxt+h510+elite&qid=1611205947&sprefix=nzxt+h510+e%2Caps%2C255&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTDBNWEJIODQ0WDBIJmVuY3J5cHRlZElkPUEwNTQ2OTA5TkdGTzc3TUY5TDlKJmVuY3J5cHRlZEFkSWQ9QTA4MjAwNTNaUDZBVks5WDc5WkMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl">NZXT H510 Elite</a>
-
 <img class="ui image" src="../images/motherboard.jpg">
   <a href="https://www.amazon.com/ASUS-ROG-B550-F-Motherboard-Addressable/dp/B088W7RKVZ/ref=sr_1_4?dchild=1&keywords=asus+motherboard&qid=1611207160&sr=8-4">ASUS ROG Strix</a>
   
@@ -36,3 +34,5 @@ Building a PC is a grueling process, in the process, I learned that hardware is 
 <a href="https://www.amazon.com/CORSAIR-RM850x-Certified-Modular-Supply/dp/B015YEI8JG/ref=sr_1_4?crid=3S2YSQZTS5GYQ&dchild=1&keywords=corsair+850w+power+supply&qid=1611206026&s=electronics&sprefix=corsair+850%2Celectronics%2C251&sr=1-4">CORSAIR RM850x</a>
 
 </div>
+HyperLinks:
+<a href="https://www.amazon.com/NZXT-H510-Elite-Dual-Tempered-Water-Cooling/dp/B07TD9VTVQ/ref=sr_1_1_sspa?crid=34AY8TPCQ0Y73&dchild=1&keywords=nzxt+h510+elite&qid=1611205947&sprefix=nzxt+h510+e%2Caps%2C255&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTDBNWEJIODQ0WDBIJmVuY3J5cHRlZElkPUEwNTQ2OTA5TkdGTzc3TUY5TDlKJmVuY3J5cHRlZEFkSWQ9QTA4MjAwNTNaUDZBVks5WDc5WkMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl">NZXT H510 Elite</a>

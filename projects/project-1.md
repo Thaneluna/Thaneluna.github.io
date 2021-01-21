@@ -15,9 +15,3 @@ summary: My partner and I developed a 2D shooting game very much similar to Zomb
 
 This game is meant to serve as a 2D game that utilizes wasd movement, space bar to shoot, and a health bar.
 
-
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/ZombieGame.png">
-</div>
-
-

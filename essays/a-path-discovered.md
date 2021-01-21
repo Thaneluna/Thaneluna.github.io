@@ -2,11 +2,11 @@
 layout: essay
 type: essay
 title: A Path Discovered
-summary: What's been discovered will evolve, and what will be discovered will be found. I have found my discovery.. Software engineering
 date: 2021-01-20
 labels:
   - Software Engineering
   - Educational
+summary: What's been discovered will evolve, and what will be discovered will be found. I have found my discovery.. Software engineering
 ---
 
 Software engineering wasn’t my first option. Like most High School students, I wanted to do psychology. After doing more research though, I discovered a whole new field that interested me. The field of software engineering, the pioneer of technology. As each day passes by, new companies have developed new software and scientists have been discovering new languages to enhance this field. Similarly, I am discovering new interests with this field like how is it possible that words produce my favorite video games, (insert video games here) how can software be manipulated by languages, and even has me wondering why is this field constantly hiring. From this discovery, I want to learn more about software engineering and develop new skills and experiences.

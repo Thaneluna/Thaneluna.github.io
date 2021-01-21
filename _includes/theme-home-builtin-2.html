@@ -16,12 +16,12 @@
     <h2 class="header no-bottom">{{ site.data.bio.basics.name }}</h2>
     <p class=""> <font size="4"> {{ site.data.bio.basics.label }} </font></p>
     <p class="">
-      {{ site.data.bio.basics.summary }}
+      <font size="3"> {{ site.data.bio.basics.summary }} </font>
     </p>
-    <p>Interests:
+    <p> <font size="3"> Interests:
       {% for interest in site.data.bio.interests %}
         {{ interest.name }}{% if forloop.last != true %}, {% endif %}
-      {% endfor %}
+      {% endfor %} </font>
     </p>
     <p style="text-align: center">
       {% include home-network-links.html %}

@@ -1,7 +1,14 @@
 ---
-
+layout: essay
+type: essay
+title: ##Why Javascript Succeeds
+date: 2021-01-21
+labels:
+  - Software Engineering
+  - Educational
+  - Javascript
+summary: In this essay, I explain WHY Javascript is a successful language, and how this course supports such a statement.
 ---
-
 Javascript is a successful language. I say this because it is unlike anything i've experienced thus far in my journey through the languages. Simple code from Java's programming language like:
 '''green
 main(String [] args) {

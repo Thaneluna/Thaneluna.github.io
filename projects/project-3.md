@@ -10,7 +10,7 @@ date: 2021-01-10
 labels:
   - Engineering
   - Instructional
-  - Hardware
+  - Computer Engineering
 summary: A mini project of building my own PC.
 ---
 

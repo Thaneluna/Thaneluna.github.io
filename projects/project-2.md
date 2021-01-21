@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Game.png
+image: images/GameV1.png
 title: Bouncy 
 permalink: projects/bouncy
 # All dates must be YYYY-MM-DD format!

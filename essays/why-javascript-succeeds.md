@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ##Why Javascript Succeeds
+title: Why Javascript Succeeds
 date: 2021-01-21
 labels:
   - Software Engineering

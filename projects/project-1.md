@@ -10,6 +10,7 @@ date: 2015-07-01
 labels:
     - Java
     - 2D Game
+    - OOP
 summary: A 2D game very much similar to Zombieville that me and my partner created in ICS 111.
 ---
 

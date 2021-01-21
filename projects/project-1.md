@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/Zombie.jpeg
+image: images/ZombieGame.png
 title: Zombified
 permalink: projects/zombified
 # All dates must be YYYY-MM-DD format!

@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: A Path Discovered
+summary: What's been discovered will evolve, and what will be discovered will be found. I have found my discovery.. Software engineering
 date: 2021-01-20
 labels:
   - Software Engineering

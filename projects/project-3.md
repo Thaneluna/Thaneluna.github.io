@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/PCBuild.jp2
+image: images/PCBuild.jpg
 title: Building a PC
 permalink: projects/pcbuild
 # All dates must be YYYY-MM-DD format!

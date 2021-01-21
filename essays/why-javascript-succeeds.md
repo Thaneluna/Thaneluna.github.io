@@ -10,7 +10,7 @@ labels:
 summary: In this essay, I explain WHY Javascript is a successful language, and how this course supports such a statement.
 ---
 Javascript is a successful language. I say this because it is unlike anything i've experienced thus far in my journey through the languages. Simple code from Java's programming language like:
-<code>
+<p><code>
 main(String [] args) {
     // Do somethings then call aFunction()
 }
@@ -18,7 +18,7 @@ main(String [] args) {
 void aFunction() {
 
 }
-</code>
+</code></p>
 Code such as this is easily manipulated in javascript and is much more easier to use. There isn't a need for a main function, as well as an identifier for the auxilary functions. This is what makes javascript a successful language. However, javascript compared to the cpp language does have similar syntax. For example, creating a variable in both javascript and cpp; var, let, const are used in both. Because of this, I hope to know the difference as I progress through this course.
 
 

@@ -1,61 +1,30 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+published: true
+image: images/PCBuild.jpg
+title: Building a PC
+permalink: projects/pcbuild
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021-1-10
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Engineering
+  - Instructional
+  - Hardware
+summary: A mini project of building my own PC.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+PC building is not easy. There are a lot of factors that you must take into account. I spent over 4 days building my PC with all the photos of the parts I used above. My previous PC was pre-built and $299, the CPU was slow and the VGA was not up to date. I paid for this PC $1300 no extra fees because of the pre-built nonsense. Orginally, the parts were listed much more cheaper a few years ago, but since demands are high for most parts, there hardly isn't any in stock and if so they are ranged around $600 for one piece. Building a PC can be rather expensive, but it is the journey of peeling back that film over the tempered glass that makes the process worth it.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Building a PC is a grueling process, in the process, I learned that hardware is fragile. It took me a few days to only realize that a part was defective. I also did fry the motherboard because of static electric build up I had in my body. I also had to do a few hours of research beforehand, but it was all worth it in the end. Now when I run games I can run it with a smooth 60+ FPS with high/ultra graphics, and I can even open up other applications while playing games; a feature that my old PC did not possess. This mini project of mines helped show that hardware and software capabilities go hand in hand. If you have cheap hardware, you pay the price by either running games in low FPS with high input lag, or not even be able to run the game at all. So as a word of advice for any takers in building a PC make sure to have the right materials, you can ask your friends if you can test your parts with their parts and even go out of your way to buy other motherboards, CPUs, VGAs, PSUs and return the items when needed because if a part is defective you won't find the answer without having a spare part. Most of all, don't stress over the challenging things, instead do more research and take a breath before you do any significant project such as this. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+<div class="ui small rounded images">
+<img class="ui image" src="../images/Case.jpg">
+<img class="ui image" src="../images/motherboard.jpg">
+<img class="ui image" src="../images/ryzen.jpg">
+<img class="ui image" src="../images/gigabyte.jpg">
+<img class="ui image" src="../images/Powersupply.jpg">
+</div>
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+Below are hyperlinks to the PC parts above:
+<a href="https://www.amazon.com/NZXT-H510-Elite-Dual-Tempered-Water-Cooling/dp/B07TD9VTVQ/ref=sr_1_1_sspa?crid=34AY8TPCQ0Y73&dchild=1&keywords=nzxt+h510+elite&qid=1611205947&sprefix=nzxt+h510+e%2Caps%2C255&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTDBNWEJIODQ0WDBIJmVuY3J5cHRlZElkPUEwNTQ2OTA5TkdGTzc3TUY5TDlKJmVuY3J5cHRlZEFkSWQ9QTA4MjAwNTNaUDZBVks5WDc5WkMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl">NZXT H510 Elite</a>

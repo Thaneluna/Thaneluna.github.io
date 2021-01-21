@@ -15,9 +15,9 @@ Javascript is a successful language. I say this because it is unlike anything i'
   <p>// Do something then call aFunction()</p>
 }
 
-<b>void</b> aFunction() {
+<p><b>void</b> aFunction() {
 
-}
+}</p>
 </code></p>
 Code such as this is easily manipulated in javascript and is much more easier to use. There isn't a need for a main function, as well as an identifier for the auxilary functions. This is what makes javascript a successful language. However, javascript compared to the cpp language does have similar syntax. For example, creating a variable in both javascript and cpp; var, let, const are used in both. Because of this, I hope to know the difference as I progress through this course.
 

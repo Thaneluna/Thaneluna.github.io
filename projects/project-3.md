@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/PCBuildV6.jpg
+image: images/PCBuildV7.jpg
 title: Building a PC
 permalink: projects/pcbuild
 # All dates must be YYYY-MM-DD format!

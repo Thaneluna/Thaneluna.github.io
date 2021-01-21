@@ -6,7 +6,7 @@ image: images/PCBuild.jpg
 title: Building a PC
 permalink: projects/pcbuild
 # All dates must be YYYY-MM-DD format!
-date: 2021-1-10
+date: 2021-01-10
 labels:
   - Engineering
   - Instructional

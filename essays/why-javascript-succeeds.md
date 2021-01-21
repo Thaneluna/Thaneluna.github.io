@@ -1,6 +1,6 @@
-/* So. What do you think about Javascript so far? If you’re a complete newbie, how does it compare to other programming languages that you know? If you have prior experience, did you learn new things from this module, perhaps with respect to ES6? Do you think Javascript is a good or bad programming language from a software engineering perspective?
+---
 
-What about athletic software engineering? Did you find the practice WODs to be useful? What do you think about this style of learning? Is it stressful? Is it enjoyable? Do you think it will work for you? */
+---
 
 Javascript is a successful language. I say this because it is unlike anything i've experienced thus far in my journey through the languages. Simple code from Java's programming language like:
 '''green
@@ -21,4 +21,4 @@ Even though this is the case from the statement above. I learned new things abou
 
 Nevertheless, from a software engineering's perspective, I think that Javascript is a good programming language. I say this because even though it's code runs much slower; the simplicity of the code makes computing an algorithm feel faster because of the many added features in the language. Although again, from my experience, the way your computer runs the code is based on hardware and software capabilities. 
 
-On the other hand, athletic software engineering 
+On the other hand, athletic software engineering makes programming languages easier to comprehend. Throughout the first few weeks of this course, the style of learning has been factual. I find the practice WODs useful to not only take the real WODs, but also, creates a positive factor in my mind. This feeling I am comfortable with because not only does the style work, it also is enjoyable. Even freecodecamp activities are factual to me. I can always refer back to the site whenever I am debugging code. All in all, the structure of this class is why javascript succeeds because it is an easier typeable language, but a different language to learn about.

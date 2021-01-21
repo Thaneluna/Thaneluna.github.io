@@ -14,7 +14,7 @@ summary: A 2D game very much similar to Zombieville that me and my partner creat
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/ZombieGame.png">
+  <img class="ui image" src="../images/ZombieGame.v1.png">
 </div>
 
 **Zombified** is a game that has a 2D's game main features. 

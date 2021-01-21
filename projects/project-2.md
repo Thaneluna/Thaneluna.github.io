@@ -7,8 +7,9 @@ permalink: projects/bouncy
 # All dates must be YYYY-MM-DD format!
 date: 2017-10-24
 labels:
-  - Javascript
+  - Java
   - 2D Game
+  - OOP
 summary: A object oriented 2D game that is similar to snake, but with walls.
 ---
 

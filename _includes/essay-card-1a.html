@@ -6,7 +6,13 @@
     <div class="meta">
       <span class="date">{{ include.page.date | date_to_string }}</span>
     </div>
-
+    
+    <div class="description">
+      {{ include.page.content | strip_html | truncatewords: 40 }}
+      {{ include.page.content | markdownify | strip_html | truncatewords: 40 }}
+    </div>
+  </div>
+  
   <div class="extra content">
     <div class="ui mini labels">
       {% for label in include.page.labels %}

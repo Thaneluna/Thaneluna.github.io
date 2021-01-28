@@ -41,9 +41,10 @@ includes doesn’t have Internet Explorer support, though. In ECMAScript 5 or ol
     console.log(string.indexOf(substring) !== -1);
 ```
 As you can see the answer was effective; the solution had the type of language version and also gave code example as well as another example if the user was using Internet Explorer. Based on Raymond's essay, the smart question was answered in a gentle way with enough help. 
-It included research that demonstrated those skills rather than just trying to use words to explain. <img class="ui medium center floated rounded image" src="../images/show.jpg">
+It included research that demonstrated those skills rather than just trying to use words to explain. <p><img class="ui medium center floated rounded image" src="../images/show.jpg"></p>
 
 <br>A smart question like this one finds much better results opposed to one that isn't smart. 
 
 ## The Not...So Smart Way
-<img class="ui medium center floated rounded image" src="../images/question.jpg">
+<p><img class="ui medium center floated rounded image" src="../images/question.jpg"></p>
+As preferred, no developer wants to answer an ignorant question because they don't want to waste their time and efforts. However, they don't want to mislead others. You could go about telling them to RTFM or STFW as Raymond puts it, but some developers are tasked with actually answering these easily found questions on the web. For example in the forum Stack Exchange, one question that could've easily been filtered out, but wasn't is this one: 

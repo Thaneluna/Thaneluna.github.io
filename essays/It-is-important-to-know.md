@@ -26,7 +26,7 @@ If you had no success at the mentioned tips, then next is the easy part, but tha
 
 First off, "smart" questions are successful on the internet. If you produce a smart question, then you wouldn't be considered as a time sink like Raymond says in his essay. In order to produce such a question; do not be blind and fire off many questions at once. Such questions are filtered out and can lead to a potential block from the forum leader. It is vital that when forming a question, do your research prior to it. Not only does it help with the formation, but you may also find an answer. A question can be answered effectively if done on the right forum. One forum used by many "hackers" or programmers described by Raymond is Stack Overflow. This website has a Stack Exchange community where your smart questions can be answered. For example, a smart question like How to check whether a string contains a substring in JavaScript? was viewed over 6.4m times and the details proved that whomever asked the question certainly did their research. The details of the question said this:
 <blockquote> "Usually I would expect a String.contains() method, but there doesn't seem to be one. What is a reasonable way to check for this?." </blockquote> Not only was it brief to read since time is of the essence for developers. It is also identifable that there was research done prior and even tried executing the String.contains() method in his own JS editor. Of the many answers, one answer got 14327 votes and has a green checkmark meaning that it was effective and efficient help. The answer was structured as such: 
-<br>ECMAScript 6 introduced String.prototype.includes: 
+ECMAScript 6 introduced String.prototype.includes: 
 ```
       const string = "foo";
       const substring = "oo";
@@ -34,7 +34,7 @@ First off, "smart" questions are successful on the internet. If you produce a sm
       console.log(string.includes(substring));
       
 ```
-<br>includes doesn’t have Internet Explorer support, though. In ECMAScript 5 or older environments, use String.prototype.indexOf, which returns -1 when a substring cannot be found:
+includes doesn’t have Internet Explorer support, though. In ECMAScript 5 or older environments, use String.prototype.indexOf, which returns -1 when a substring cannot be found:
 ```
 
     var string = "foo";
@@ -50,7 +50,7 @@ It included research that demonstrated those skills rather than just trying to u
 
 ## The Not...So Smart Way
 <img class="ui medium right floated rounded image" src="../images/question.jpg">
-<p> As preferred, no developer wants to answer an ignorant question because they don't want to waste their time and efforts. However, they don't want to mislead others. You could go about telling the questioner to RTFM or STFW as Raymond puts it, but some that wouldn't be fair for the questioner and other potential people who have a similar question. For example in the forum Stack Exchange community, one question that could've easily been filtered out, but wasn't is this one; How to check if the string is empty?. The one thing that is wrong with such a question is it answers itself and can be copy and pasted to the web. In the questioners detailed explanation below: </p>
+ As preferred, no developer wants to answer an ignorant question because they don't want to waste their time and efforts. However, they don't want to mislead others. You could go about telling the questioner to RTFM or STFW as Raymond puts it, but some that wouldn't be fair for the questioner and other potential people who have a similar question. For example in the forum Stack Exchange community, one question that could've easily been filtered out, but wasn't is this one; How to check if the string is empty?. The one thing that is wrong with such a question is it answers itself and can be copy and pasted to the web. In the questioners detailed explanation below:
   
   Does Python have something like an empty string variable where you can do:
       ```
@@ -59,3 +59,4 @@ It included research that demonstrated those skills rather than just trying to u
         
       ``` 
   Regardless, what's the most elegant way to check for empty string values? I find hard coding "" every time for checking an empty string not as good.
+ 

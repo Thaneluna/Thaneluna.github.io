@@ -25,12 +25,12 @@ If you had no success at the mentioned tips, then next is the easy part, but tha
 ## The Smart Way
 
 First off, "smart" questions are successful on the internet. If you produce a smart question, then you wouldn't be considered as a time sink like Raymond says in his essay. In order to produce such a question; do not be blind and fire off many questions at once. Such questions are filtered out and can lead to a potential block from the forum leader. It is vital that when forming a question, do your research prior to it. Not only does it help with the formation, but you may also find an answer. A question can be answered effectively if done on the right forum. One forum used by many "hackers" or programmers described by Raymond is Stack Overflow. This website has a Stack Exchange community where your smart questions can be answered. For example, a smart question like How to check whether a string contains a substring in JavaScript? was viewed over 6.4m times and the details proved that whomever asked the question certainly did their research. The details of the question said this "Usually I would expect a String.contains() method, but there doesn't seem to be one. What is a reasonable way to check for this?." Not only was it brief to read since time is of the essence for developers. But it is seen that there was research done prior and he even tried executing the String.contains() method in his own JS editor. One answer got 14327 votes and has a green checkmark meaning that it was effective and efficient help. The answer was structured as such: 
-<blockquote> <br>ECMAScript 6 introduced String.prototype.includes: 
-  <p>```blue
+<br>ECMAScript 6 introduced String.prototype.includes: 
+```blue
       const string = "foo";
       const substring = "oo";
 
       console.log(string.includes(substring));
-     ```
-  </p>
+```
+
 <br> includes doesn’t have Internet Explorer support, though. In ECMAScript 5 or older environments, use String.prototype.indexOf, which returns -1 when a substring cannot be found:

@@ -41,8 +41,7 @@ includes doesn’t have Internet Explorer support, though. In ECMAScript 5 or ol
     console.log(string.indexOf(substring) !== -1);
 ```
 As you can see the answer was effective; the solution had the type of language version and also gave code example as well as another example if the user was using Internet Explorer. Based on Raymond's essay, the smart question was answered in a gentle way with enough help. 
-<img class="ui tiny left circular floated image" src="../images/actions.jpg">
-It included research that demonstrated those skills rather than just trying to use words to explain. 
+<img class="ui tiny left circular floated image" src="../images/actions.jpg"> It included research that demonstrated those skills rather than just trying to use words to explain. 
 <br> A smart question like this one will find much more success opposed to one that isn't smart. 
 
 ## The Not...So Smart Way

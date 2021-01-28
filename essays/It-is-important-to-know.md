@@ -46,13 +46,10 @@ It included research that demonstrated those skills rather than just trying to u
 <br>A smart question like this one finds much better results opposed to one that isn't smart. 
 
 ## The Not...So Smart Way
-<div class="img-with-text">
-    <img src="../images/question.jpg">>
-    <p> As preferred, no developer wants to answer an ignorant question because they don't want to waste their time and efforts. However, they don't want to mislead others. You could go about telling the questioner to RTFM or STFW as Raymond puts it, but some developers are tasked with actually answering these easily found questions on the web. For example in the forum Stack Exchange, one question that could've easily been filtered out, but wasn't is this one; How to check if the string is empty?. The one thing that is wrong with such a question is it answers itself and can be copy and pasted to the web. In the questioners detailed explanation below:
+<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<p> As preferred, no developer wants to answer an ignorant question because they don't want to waste their time and efforts. However, they don't want to mislead others. You could go about telling the questioner to RTFM or STFW as Raymond puts it, but some that wouldn't be fair for the questioner and other potential people who have a similar question. For example in the forum Stack Exchange community, one question that could've easily been filtered out, but wasn't is this one; How to check if the string is empty?. The one thing that is wrong with such a question is it answers itself and can be copy and pasted to the web. In the questioners detailed explanation below: </p>
   <br>Does Python have something like an empty string variable where you can do:
       ```blue
         if myString == string.empty:
       ``` 
   Regardless, what's the most elegant way to check for empty string values? I find hard coding "" every time for checking an empty string not as good.
-</p>
-</div>

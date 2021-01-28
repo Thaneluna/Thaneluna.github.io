@@ -32,16 +32,13 @@ ECMAScript 6 introduced String.prototype.includes:
       const substring = "oo";
 
       console.log(string.includes(substring));
-      
 ```
 includes doesn’t have Internet Explorer support, though. In ECMAScript 5 or older environments, use String.prototype.indexOf, which returns -1 when a substring cannot be found:
 ```
-
     var string = "foo";
     var substring = "oo";
 
     console.log(string.indexOf(substring) !== -1);
-    
 ```
 As you can see the answer was effective; the solution had the type of language version and also gave code example as well as another example if the user was using Internet Explorer. Based on Raymond's essay, the smart question was answered in a gentle way with enough help. 
 It included research that demonstrated those skills rather than just trying to use words to explain. <img class="ui small right floated rounded image" src="../images/show.jpg">
@@ -49,14 +46,11 @@ It included research that demonstrated those skills rather than just trying to u
 <br>A smart question like this one finds much better results opposed to one that isn't smart. 
 
 ## The Not...So Smart Way
-<img class="ui medium right floated rounded image" src="../images/question.jpg">
+<img class="ui medium center floated rounded image" src="../images/question.jpg">
  As preferred, no developer wants to answer an ignorant question because they don't want to waste their time and efforts. However, they don't want to mislead others. You could go about telling the questioner to RTFM or STFW as Raymond puts it, but some that wouldn't be fair for the questioner and other potential people who have a similar question. For example in the forum Stack Exchange community, one question that could've easily been filtered out, but wasn't is this one; How to check if the string is empty?. The one thing that is wrong with such a question is it answers itself and can be copy and pasted to the web. In the questioners detailed explanation below:
-  
   Does Python have something like an empty string variable where you can do:
       ```
-      
         if myString == string.empty:
-        
       ``` 
   Regardless, what's the most elegant way to check for empty string values? I find hard coding "" every time for checking an empty string not as good.
  

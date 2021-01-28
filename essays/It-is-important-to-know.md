@@ -34,7 +34,7 @@ First off, "smart" questions are successful on the internet. If you produce a sm
       console.log(string.includes(substring));
 ```
 <br>includes doesn’t have Internet Explorer support, though. In ECMAScript 5 or older environments, use String.prototype.indexOf, which returns -1 when a substring cannot be found:
-```blue
+```
     var string = "foo";
     var substring = "oo";
 
@@ -49,7 +49,7 @@ It included research that demonstrated those skills rather than just trying to u
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 <p> As preferred, no developer wants to answer an ignorant question because they don't want to waste their time and efforts. However, they don't want to mislead others. You could go about telling the questioner to RTFM or STFW as Raymond puts it, but some that wouldn't be fair for the questioner and other potential people who have a similar question. For example in the forum Stack Exchange community, one question that could've easily been filtered out, but wasn't is this one; How to check if the string is empty?. The one thing that is wrong with such a question is it answers itself and can be copy and pasted to the web. In the questioners detailed explanation below: </p>
   <br>Does Python have something like an empty string variable where you can do:
-      ```blue
+      ```
         if myString == string.empty:
       ``` 
   Regardless, what's the most elegant way to check for empty string values? I find hard coding "" every time for checking an empty string not as good.

@@ -26,7 +26,6 @@ If you had no success at the mentioned tips, then next is the easy part, but tha
 
 First off, "smart" questions are successful on the internet. If you produce a smart question, then you wouldn't be considered as a time sink like Raymond says in his essay. In order to produce such a question; do not be blind and fire off many questions at once. Such questions are filtered out and can lead to a potential block from the forum leader. It is vital that when forming a question, do your research prior to it. Not only does it help with the formation, but you may also find an answer. A question can be answered effectively if done on the right forum. One forum used by many "hackers" or programmers described by Raymond is Stack Overflow. This website has a Stack Exchange community where your smart questions can be answered. For example, a smart question like How to check whether a string contains a substring in JavaScript? was viewed over 6.4m times and the details proved that whomever asked the question certainly did their research. The details of the question said this:
 <blockquote> "Usually I would expect a String.contains() method, but there doesn't seem to be one. What is a reasonable way to check for this?." </blockquote> Not only was it brief to read since time is of the essence for developers. It is also identifable that there was research done prior and even tried executing the String.contains() method in his own JS editor. Of the many answers, one answer got 14327 votes and has a green checkmark meaning that it was effective and efficient help. The answer was structured as such: 
-<blockquote>
 <br>ECMAScript 6 introduced String.prototype.includes: 
 ```blue
       const string = "foo";
@@ -41,19 +40,19 @@ includes doesn’t have Internet Explorer support, though. In ECMAScript 5 or ol
 
     console.log(string.indexOf(substring) !== -1);
 ```
-</blockquote>
 As you can see the answer was effective; the solution had the type of language version and also gave code example as well as another example if the user was using Internet Explorer. Based on Raymond's essay, the smart question was answered in a gentle way with enough help. 
-It included research that demonstrated those skills rather than just trying to use words to explain. <p> <img class="ui medium center floated rounded image" src="../images/show.jpg"> </p>
+It included research that demonstrated those skills rather than just trying to use words to explain. <img class="ui small right floated rounded image" src="../images/show.jpg">
 
 <br>A smart question like this one finds much better results opposed to one that isn't smart. 
 
 ## The Not...So Smart Way
-<p> <img class="ui medium center floated rounded image" src="../images/question.jpg"> </p>
-As preferred, no developer wants to answer an ignorant question because they don't want to waste their time and efforts. However, they don't want to mislead others. You could go about telling the questioner to RTFM or STFW as Raymond puts it, but some developers are tasked with actually answering these easily found questions on the web. For example in the forum Stack Exchange, one question that could've easily been filtered out, but wasn't is this one; How to check if the string is empty?. The one thing that is wrong with such a question is it answers itself and can be copy and pasted to the web. In the questioners detailed explanation below:
-<blockquote>
+<div class="img-with-text">
+    <img src="../images/question.jpg">/>
+    <p> As preferred, no developer wants to answer an ignorant question because they don't want to waste their time and efforts. However, they don't want to mislead others. You could go about telling the questioner to RTFM or STFW as Raymond puts it, but some developers are tasked with actually answering these easily found questions on the web. For example in the forum Stack Exchange, one question that could've easily been filtered out, but wasn't is this one; How to check if the string is empty?. The one thing that is wrong with such a question is it answers itself and can be copy and pasted to the web. In the questioners detailed explanation below:
   Does Python have something like an empty string variable where you can do:
   ```blue
     if myString == string.empty:
   ```
   Regardless, what's the most elegant way to check for empty string values? I find hard coding "" every time for checking an empty string not as good.
-</blockquote>
+</p>
+</div>

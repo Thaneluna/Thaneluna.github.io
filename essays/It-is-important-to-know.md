@@ -42,7 +42,7 @@ includes doesn’t have Internet Explorer support, though. In ECMAScript 5 or ol
 ```
 As you can see the answer was effective; the solution had the type of language version and also gave code example as well as another example if the user was using Internet Explorer. Based on Raymond's essay, the smart question was answered in a gentle way with enough help. 
 <br> It included research that demonstrated those skills rather than just trying to use words to explain. <img class="ui tiny right circular floated image" src="../images/actions.jpg"> 
-A smart question like this one will find much more success opposed to one that isn't smart. 
+<br>A smart question like this one will find much more success opposed to one that isn't smart. 
 
 ## The Not...So Smart Way
 

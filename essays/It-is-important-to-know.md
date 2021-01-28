@@ -47,10 +47,33 @@ It included research that demonstrated those skills rather than just trying to u
 
 ## The Not...So Smart Way
 <img class="ui small right floated rounded image" src="../images/question.jpg">
-As preferred, no developer wants to answer an ignorant question because they don't want to waste their time and efforts. However, they don't want to mislead others. You could go about telling the questioner to RTFM or STFW as Raymond puts it, but some that wouldn't be fair for the questioner and other potential people who have a similar question. For example in the forum Stack Exchange community, one question that could've easily been filtered out, but wasn't is this one; How to check if the string is empty?. The one thing that is wrong with such a question is it answers itself and can be copy and pasted to the web. In the questioners detailed explanation below:
-  <br> Does Python have something like an empty string variable where you can do:
-```
-  if (myString == string.empty:)
-``` 
-  Regardless, what's the most elegant way to check for empty string values? I find hard coding "" every time for checking an empty string not as good.
- 
+As preferred, no developer wants to answer an ignorant question because they don't want to waste their time and efforts. However, they don't want to mislead others. You could go about telling the questioner to RTFM or STFW as Raymond puts it, but some that wouldn't be fair for the questioner and other potential people who have a similar question. For example in the forum Stack Exchange community, one question that could've easily been filtered out, but wasn't is this one; Can't install Visual Studio 2015 Community.
+The one thing that is wrong with such a question is it answers itself and can be copy and pasted to the web. The question is also not a question and more so a problem, which is a bad approach to ask a bunch of developers in Stack Exchange. The detailed explanation is below:
+<blockquote> 
+  I'll get straight to the point here.
+
+I've been having loads of problems installing Visual Studio 2015 Community recently. I previously had Visual Studio 2012, but decided to uninstall it and install 2015 since I've started using 2015 at college.
+
+Originally I was using Windows 7 Professional when I was having the issues, but it persists with Windows 10. The exact issue is that when I try to install Visual Studio, it progresses a little bit and then stops at "Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.24210" and then doesn't progress past that. It will keep installing that for as long as I let it, and when I try to stop the download, it will not close and I will have to restart my PC. See here: 1
+
+I contacted Microsoft support, which, I have to say, is appalling, and they recommended that I try to install it after performing a clean boot. I did that, and it seemed to be working, but I got multiple other errors. See here: 2
+
+As I need this programme to help with college work, you can see how this would be a huge inconvenience for me, and since Microsoft support is so terrible, I decided to come here to ask for help.
+
+So, would you please help me figure this out?
+</blockquote> 
+
+The expectation from this question seems like it would be simple and it is. If Microsoft support couldn't help you and whatever you did didn't work just replace it or take it into an expert. On the internet, Raymond states that it is difficult to find answers if you are not specific. In this scenario, the questioner only received 1 answer, which the provider was helping to the best of there ability and to no avail. Here is a synopsis of what the answerer said:
+0
+
+Refer to the log file, I found the error message 'The older version of Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.24210 cannot be removed', you can have a try with the following to troubleshot this issue:
+
+1. Make sure run the installer as administrator.
+2. Go to Control Panel—Programs and Features and if you can find any versions of Visual C++ 2015 Redistributable, right-click and repair. After that, re-run the VS installer as administrator to repair. If not works, uninstall the installed Visual C++ 2015 Redistributable versions and re-run the VS installer again.
+3. You can also use the MsiInv tool: https://blogs.msdn.microsoft.com/astebner/2005/07/01/using-msiinv-to-gather-information-about-what-is-installed-on-a-computer/ to obtain all 4. Windows Installer products, features and components that Windows Installer thinks are installed on your computer, then manually uninstall the Visual C++ 2015 x86 Debug Runtime - 14.0.24210 by running msiexec /x command. After that, re-run the VS installer as administrator.
+5. Download the Visual C++ 2015 Redistributable from https://www.microsoft.com/en-sg/download/details.aspx?id=48145 and install it, then re-run the VS installer to repair.
+
+Although, it was a follow along guide; the questioner was rebuttling with even more issues. At this point, the comment section died and I am unsure if it was solved. A question like this makes it a not so smart one. If nothing seems to be working on one computer, maybe it is time to try an alternative and switch laptops or even throw away your system completely like Raymond puts it. In the following question, the questioner was fed up with his computer and you can tell the comment section was on fire with attitude. Even though, whomever helped him was trying their best, another issue would occcur. So at this point, it is time to either call tech support and if they can't help you ask for a refund as that is what I would do.
+
+## Conclusion
+To conclude, a smart question is a good question and a not so smart question is a bad question. Again, "English is the working language of the internet", in order to succeed at asking questions do your research first and then further ask questions when needed. Although, don't ask meaningless pointless questions like a system error as it is not a developers job to fix this for you as it could be a software issue, it could also be a hardware issue like Raymond states. Nonetheless, the web is your friend and use it wisely. The answers you seek are found within every website or article... so long as you do your research. Finally, remember that developers take a chunk of their day when asked upon, so be thankful and grateful for there help even when they haven't solved your issue. 

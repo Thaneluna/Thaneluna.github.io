@@ -10,7 +10,7 @@ labels:
 ---
 # Introduction
 
-According to Eric Raymond, "English is the working language of the internet." His essay on <i> "How To Ask Questions The Smart Way", </i> talks about that and many more. Most importantly, about why asking a "smart" question leads to efficient and effective help. Sadly, developers ask "not smart" questions which leads to opposite results. Im sure we've all been in this situation where we did not know what types of questions or how to ask them. However, before asking a technical question, do these following tips that Eric wrote:
+According to Eric Raymond, "English is the working language of the internet." The internet is filled with forums, websites, and operations that allow users to find answers to questions. Although, sometimes questions can be either smart or not so smart. Eric Raymond's essay <i> "How To Ask Questions The Smart Way" </i> gives its readers insight on how to approach asking a question to get the answers you seek. In one way, a "smart" question leads to efficient and effective help. In another way, a "not so smart" question leads to the opposite. Im sure we've all been there, we thought our questions were smart because we received an answer, though what if you can elevate that question to receive a better answer than you expected. Before asking a technical question, do these following tips that Eric wrote:
 <blockquote>
   1. Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
   <br>2. Try to find an answer by searching the web.
@@ -20,8 +20,17 @@ According to Eric Raymond, "English is the working language of the internet." Hi
   <br>6. Try to find an answer by asking a skilled friend.
   <br>7. If you're a programmer, try to find an answer by reading the source code.
 </blockquote>
-If you had no success at the mentioned tips, then next is the easy part, but that depends on what your goals are and how you plan to achieve them.
+If you had no success at the mentioned tips, then next is the easy part, but that depends on what your goals are and what you expect out of them.
 
 ## The Smart Way
 
-First off, 
+First off, "smart" questions are successful on the internet. If you produce a smart question, then you wouldn't be considered as a time sink like Raymond says in his essay. In order to produce such a question; do not be blind and fire off many questions at once. Such questions are filtered out and can lead to a potential block from the forum leader. It is vital that when forming a question, do your research prior to it. Not only does it help with the formation, but you may also find an answer. A question can be answered effectively if done on the right forum. One forum used by many "hackers" or programmers described by Raymond is Stack Overflow. This website has a Stack Exchange community where your smart questions can be answered. For example, a smart question like How to check whether a string contains a substring in JavaScript? was viewed over 6.4m times and the details proved that whomever asked the question certainly did their research. The details of the question said this "Usually I would expect a String.contains() method, but there doesn't seem to be one. What is a reasonable way to check for this?." Not only was it brief to read since time is of the essence for developers. But it is seen that there was research done prior and he even tried executing the String.contains() method in his own JS editor. One answer got 14327 votes and has a green checkmark meaning that it was effective and efficient help. The answer was structured as such: 
+<blockquote> <br>ECMAScript 6 introduced String.prototype.includes: 
+  <p>```blue
+      const string = "foo";
+      const substring = "oo";
+
+      console.log(string.includes(substring));
+     ```
+  </p>
+<br> includes doesn’t have Internet Explorer support, though. In ECMAScript 5 or older environments, use String.prototype.indexOf, which returns -1 when a substring cannot be found:

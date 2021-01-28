@@ -77,6 +77,7 @@ Although, it was a follow along guide; the questioner was rebuttling with even m
 
 ## Conclusion
 To conclude, a smart question is a good question and a not so smart question is a bad question. Again, "English is the working language of the internet", in order to succeed at asking questions do your research first and then further ask questions when needed. Although, don't ask meaningless pointless questions like a system error as it is not a developers job to fix this for you as it could be a software issue, it could also be a hardware issue like Raymond states. Nonetheless, the web is your friend and use it wisely. The answers you seek are found within every website or article... so long as you do your research. Finally, remember that developers take a chunk of their day when asked upon, so be thankful and grateful for there help even when they haven't solved your issue. 
-<p>
-
-</p>
+<br>
+<br>
+<br>
+<br>

@@ -8,7 +8,7 @@ labels:
   - Educational
   - Javascript
 ---
-<img src="application-of-javascript.jpg" style="width:600px;height:400px;">
+<img src="application-of-javascript.jpg" width="500" height="600">
 Javascript is a successful language. I say this because it is unlike anything i've experienced thus far in my journey through the languages. Simple code from Java's programming language like:
 <p><code>
   <b>main</b>(String [] args) {

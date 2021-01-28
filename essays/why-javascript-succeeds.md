@@ -8,9 +8,8 @@ labels:
   - Educational
   - Javascript
 ---
-<img class="ui large top floated rounded image" src="../images/application-of-javascript.jpg">
-
-<br>Javascript is a successful language. I say this because it is unlike anything i've experienced thus far in my journey through the languages. Simple code from Java's programming language like:
+<img src="application-of-javascript.jpg" style="width:600px;height:400px;">
+Javascript is a successful language. I say this because it is unlike anything i've experienced thus far in my journey through the languages. Simple code from Java's programming language like:
 <p><code>
   <b>main</b>(String [] args) {
   <p>// Do something then call aFunction()</p>

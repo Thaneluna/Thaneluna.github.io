@@ -30,6 +30,7 @@
   "interests": [
     {
       "name": "Software Development"
+      "keyboards": ["ios"]
     },
     {
       "name": "Video games",
@@ -42,8 +43,10 @@
       "name": "Research Data",
       "keywords": [
         "Dart, Swift languages",
-        "PC Building"
       ]
+    }, 
+    {
+      "name": "PC Building"
     }
   ],
   "skills": [

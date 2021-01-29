@@ -29,8 +29,10 @@
   },
   "interests": [
     {
-      "name": "Software Development"
-      "keywords": ["ios"]
+      "name": "Software Development",
+      "keywords": [
+          "ios"
+      ]
     },
     {
       "name": "Video games",

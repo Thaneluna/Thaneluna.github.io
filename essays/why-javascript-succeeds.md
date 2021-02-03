@@ -20,7 +20,7 @@ Javascript is a successful language. I say this because it is unlike anything i'
 }</p>
 </code></p>
 
-Code such as this is easily manipulated in javascript and is much more easier to use. There isn't a need for a main function, as well as an identifier for the auxilary functions. This is what makes javascript a successful language. However, javascript compared to the cpp language does have similar syntax. For example, creating a variable in both javascript and cpp; var, let, const are used in both. Because of this, I hope to know the difference as I progress through this course.
+Code such as this is easily manipulated in javascript and is much more easier to use. There isn't a need for a main function, as well as an identifier for the auxillary functions. This is what makes javascript a successful language. However, javascript compared to the cpp language does have similar syntax. For example, creating a variable in both javascript and cpp; var, let, const are used in both. Because of this, I hope to know the difference as I progress through this course.
 
 
 <blockquote>JavaScript is easier to type, but more work for the interpreter at runtime. So while you can type up a program in JavaScript much quicker than C++, JavaScript code runs much slower.
@@ -29,7 +29,7 @@ Even though this is the case from the statement above. I learned new things abou
 
 Nevertheless, from a software engineering's perspective, I think that Javascript is a good programming language. I say this because even though it's code runs much slower; the simplicity of the code makes computing an algorithm feel faster because of the many added features in the language. Although again, from my experience, the way your computer runs the code is based on hardware and software capabilities. 
 
-On the other hand, athletic software engineering makes programming languages easier to comprehend. Throughout the first few weeks of this course, the style of learning has been factual. I find the practice WODs useful to not only take the real WODs, but also, creates a positive factor in my mind. This feeling I am comfortable with because not only does the style work, it also is enjoyable. Even freecodecamp activities are factual to me. I can always refer back to the site whenever I am debugging code. All in all, the structure of this class is why javascript succeeds because it is an easier typeable language, but a different language to learn about.
+On the other hand, athletic software engineering makes programming languages easier to comprehend. Throughout the first few weeks of this course, the style of learning has been factual. I find the practice WODs useful to not only take the real WODs, but also, creates a positive factor in my mind. This feeling I am comfortable with because not only does the style work, it also is enjoyable. Even freeCodeCamp activities help me learn more. I can always refer back to the site whenever I am debugging code. All in all, the structure of this class is why javascript succeeds because it is an easier type of language, but also a different language than the other languages out there.
 <br>
 <br>
 <br>

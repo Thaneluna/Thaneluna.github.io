@@ -68,4 +68,3 @@ As a software engineer, you look for ideas to create readable code as you want o
 Finally, you have reached the ending of the language adventure that I went through of the highs and lows of the Semantic UI frameworks. Therefore, from these real-life examples that I went through, I hope that you'll be able to use a UI framework to not only benefit yourself, but also benefit how others view Software Engineers from an outside view.
 <br>
 <br>
-<br>

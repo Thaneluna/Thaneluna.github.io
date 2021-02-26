@@ -9,7 +9,7 @@ labels:
   - Semantic UI
 ---
 ## Introduction
-Semantic UI is like the dog with a bad behavior but has a good heart, a syntax that wants to be like English. To compare, it is rarely hard to come by to translate to the computer what it is you exactly want and where you want it. However, with the ui elements of Semantic UI it's purpose is exactly that. A bad behavior that makes you upset because you are missing a tiny word like creating a menu "menu", your IDE will not recognize this because you are telling them okay a menu, but what kind of menu? If you hadn't missed it, the "<b>ui<b> menu" was the missing word. Something like this makes my head hurt, and you will soon come to find out about why that is from the following sections. Despite that Semantic UI is a very good language that can be utilized to create webpages that you come across everyday, at least for me working with Semantic UI has changed my approach to how developers create websites and I am fond of such a computer language that can create a better semantically meaning to computer language.
+Semantic UI is like the dog with a bad behavior but has a good heart, a syntax that wants to be like English. To compare, it is rarely hard to come by to translate to the computer what it is you exactly want and where you want it. However, with the ui elements of Semantic UI it's purpose is exactly that. A bad behavior that makes you upset because you are missing a tiny word like creating a menu "menu", your IDE will not recognize this because you are telling them okay a menu, but what kind of menu? If you hadn't missed it, the "<b>ui</b> menu" was the missing word. Something like this makes my head hurt, and you will soon come to find out about why that is from the following sections. Despite that Semantic UI is a very good language that can be utilized to create webpages that you come across everyday, at least for me working with Semantic UI has changed my approach to how developers create websites and I am fond of such a computer language that can create a better semantically meaning to computer language.
 
 ## Why Semantic UI has semantic meaning to computer language
 Semantic UI is a progressive way to build websites. It is a semantically, meaningful process that builds on the ideas of the English language. For example I want to take you into the progression of my recreation of the <a href="https://www.dominos.com/">Dominos</a> website. In the following image below, you will see an attempt at building the home page of the website. On one side you will see the original home page and a recreation of that.
@@ -66,3 +66,6 @@ As a software engineer, you look for ideas to create readable code as you want o
 
 ## Closing
 Finally, you have reached the ending of the language adventure that I went through of the highs and lows of the Semantic UI frameworks. Therefore, from these real-life examples that I went through, I hope that you'll be able to use a UI framework to not only benefit yourself, but also benefit how others view Software Engineers from an outside view.
+<br>
+<br>
+<br>

@@ -15,10 +15,13 @@ Semantic UI is like the dog with a bad behavior but has a good heart, a syntax t
 Semantic UI is a progressive way to build websites. It is a semantically, meaningful process that builds on the ideas of the English language. For example I want to take you into the progression of my recreation of the <a href="https://www.dominos.com/">Dominos</a> website. In the following image below, you will see an attempt at building the home page of the website. On one side you will see the original home page and a recreation of that.
 <img class="ui x-large image" src="../images/Original.png">
 <img class="ui middle image" src="../images/Recreation.png">
-As you can see, they are not nearly the same as the text shadows and font-sizes are not equal as well as the icons and buttons. However, doing this assignment helped me understand how to not only use the Google Chrome inspect which by the way is a great feature that many developers use to not only understand what is going on, but also can help to pick out the elements that require more detail and attention. Specifically, the buttons were easily implementable, semantic UI has great text for this. <div class="ui red button">some text</div> Here you can see that it is appropriate you surround such a button in a div to help with the structure of your code. Than again if you were to take it out you still would understand that you are creating a ui red button object. In addition, semantic UI is just like the English language. From the previous example, we used the word <b>"button"</b> the most common word in English that is assuming you are fluent in English or at least know what a big red square is. Semantic UI unlike the languages I've encountered has that Javascript feel to it, it can create a site through words like button or menu. Taking my example of the Domino's webpage, here is some code that I used to create the menu and hopefully you do too.
-<blockquote>
+As you can see, they are not nearly the same as the text shadows and font-sizes are not equal as well as the icons and buttons. However, doing this assignment helped me understand how to not only use the Google Chrome inspect which by the way is a great feature that many developers use to not only understand what is going on, but also can help to pick out the elements that require more detail and attention. Specifically, the buttons were easily implementable, semantic UI has great text for this. <div class="ui red button">some text</div> Here you can see that it is appropriate you surround such a button in a div to help with the structure of your code. Than again if you were to take it out you still would understand that you are creating a ui red button object. In addition, semantic UI is just like the English language. From the previous example, we used the word <b>"button"</b> the most common word in English that is assuming you are fluent in English or at least know what a big red square is. Semantic UI unlike the languages I've encountered has that Javascript feel to it, it can create a site through words like button or menu. Taking my example of the Domino's webpage, here is the following code that I used to create the menu and hopefully you do too.
+<!--
 <div class="ui borderless top menu">
   <div class="ui container">
+    <a class="fitted item">
+      <img style="width: 60px; height: 60px"class="ui image" src="https://brandslogo.net/wp-content/uploads/2018/01/dominos-pizza-logo.png">
+    </a>
     <a id="order" class="item">
       ORDER ONLINE
     </a>
@@ -34,6 +37,9 @@ As you can see, they are not nearly the same as the text shadows and font-sizes 
     <a id="rewards" class="item">
       REWARDS
     </a>
+    <div class="fitted item">
+      <div class="ui basic button"><i class="map marker icon"></i><a>VIEW YOUR LOCAL DOMINO'S</a></div>
+    </div>
     <div class="right menu">
       <a id="sign-in" class="item">
         <div class="text">
@@ -46,8 +52,8 @@ As you can see, they are not nearly the same as the text shadows and font-sizes 
       </a>
     </div>
   </div>
-</div>
-</blockquote>
+</div> -->
+
 As you can see the task was not easy, but if I were to show this to a non-developer. They would easily understand what is going on. Why? Because the code looks like English under a menu, their are items and those items have similar words such as: item, an identification (id), icon, label. A few of the many ui elements that the website <a href="https://semantic-ui.com/kitchen-sink.html">Semantic</a> gives you. After seeing how common it is isn't it exciting how a computer language like Semantic UI is similar to that of the English language.
 
 ## Just like the English Language

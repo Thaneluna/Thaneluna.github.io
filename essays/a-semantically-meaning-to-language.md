@@ -13,5 +13,5 @@ Semantic UI is like the dog with a bad behavior but has a good heart, a language
 
 ## Why Semantic UI has semantic meaning to computer language
 Semantic UI is a progressive way to build websites. For example I want to take you into the progression of my recreation of the <a href="https://www.dominos.com/">Dominos</a> website. In the following image below, you will see an attempt at building the home page of the website. On one side you will see the real home page and a recreation of that home page.
-<img src="../images/Original.png">
-<img src="../images/Recreation.png">
+<img class="ui medium image" src="../images/Original.png">
+<img class="ui middle image" src="../images/Recreation.png">
